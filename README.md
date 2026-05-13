@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Banner" width="100%" />
+</p>
+
 # Hi, I'm Shiva Ram 👋
 
 ### Full-Stack Developer | Java • Spring Boot • React.js • Node.js | AI Integration
