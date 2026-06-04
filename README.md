@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.jpg" alt="Shiva Ram Banner" width="100%" />
+  <img src="./asserts/banner.jpg" alt="Shiva Ram Banner" width="100%" />
 </p>
 
 ## 🚀 About Me
