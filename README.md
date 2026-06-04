@@ -1,178 +1,109 @@
-<p align="center">
-  <img src="./banner.jpg" alt="Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Shiva Ram 👋</h1>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  Hi 👋, I'm Shiva Ram
+</h1>
 
 <h3 align="center">
-Full-Stack Developer • Java • Spring Boot • React.js • AI Integration
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Enthusiast;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Web+Applications;Exploring+LangGraph+and+AI+Workflows" alt="Typing SVG" />
+  </a>
 </h3>
 
 <p align="center">
-Computer Science student passionate about scalable applications, backend systems, and AI-powered tools.
+  <img src="https://komarev.com/ghpvc/?username=ramavathshivaram&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+Building scalable web applications, AI-powered systems, and high-performance software solutions.
 </p>
 
 ---
 
-# 🚀 Tech Stack
-
-<table>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>Backend</b></td>
-</tr>
-
-<tr>
-<td align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-</td>
-
-<td align="center">
-
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
-</td>
-
-<td align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-# 🤖 AI & Tools
-
-<table>
-<tr>
-<td align="center"><b>AI / LLM</b></td>
-<td align="center"><b>Database</b></td>
-<td align="center"><b>Tools</b></td>
-</tr>
-
-<tr>
-<td align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-000000)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000)
-
-</td>
-
-<td align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000)
-
-</td>
-
-<td align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-# 📌 Featured Projects
-
-<table>
-<tr>
-<td width="33%">
-
-## 🗓️ Time Table Generator
-
-AI-powered scheduling platform with:
-- LangChain workflows
-- Redis queues
-- WebSockets
-- Microservices
-
-🔗  
-[Repository](https://github.com/ramavathshivaram/time-table)
-
-</td>
-
-<td width="33%">
-
-## 📝 Notebook Web App
-
-Full-stack notebook platform with:
-- AI assistance
-- JWT auth
-- Drawing support
-- Rich text editing
-
-🔗  
-[Repository](https://github.com/ramavathshivaram/notebook)
-
-</td>
-
-<td width="33%">
-
-## 📊 Data Explorer SPA
-
-Vanilla JavaScript SPA with:
-- Dynamic search
-- Filtering
-- Optimized APIs
-- Structured datasets
-
-🔗  
-[Repository](https://github.com/ramavathshivaram/Pokemon)
-
-</td>
-</tr>
-</table>
-
----
-
-# 📈 Coding Profiles
-
-<table>
-<tr>
-<td align="center">
-
-### LeetCode
-[Shivaram63](https://leetcode.com/u/Shivaram63/)
-
-</td>
-
-<td align="center">
-
-### CodeChef
-[shivaram6300](https://www.codechef.com/users/shivaram6300)
-
-</td>
-</tr>
-</table>
-
----
-
-# 📫 Connect With Me
+## 🚀 Tech Stack
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ramavath-shiva-ram/">LinkedIn</a> •
-<a href="https://github.com/ramavathshivaram">GitHub</a> •
-<a href="mailto:ramavathshiva6300@gmail.com">Email</a>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,spring,mongodb,mysql,redis,docker,aws,linux,git,github,postman" />
+</p>
+
+### 🤖 AI / LLM
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramavathshivaram&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramavathshivaram&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramavathshivaram&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📝 AI Notebook App
+- LangGraph-powered AI workflows
+- Rich text editor & canvas drawing
+- JWT authentication & Redis caching
+- Docker, AWS EC2 & GitHub Actions CI/CD
+- 278+ requests/sec with 354ms average latency
+
+🔗 https://github.com/ramavathshivaram/notebook
+
+### 🗓️ AI Timetable Generator
+- Automated timetable generation
+- React Flow visualization
+- LangChain-based planning workflows
+- Redis queues & real-time updates
+
+### 🧩 Pokémon Explorer
+- High-performance Vanilla JavaScript SPA
+- 1350+ Pokémon processed
+- 160,000+ API-linked resources handled
+- Search, filtering, comparison & evolution systems
+
+🔗 https://github.com/ramavathshivaram/Pokemon
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Solved 285+ LeetCode problems
+- 🤖 Built Full-Stack & AI-powered applications
+- ☁️ AWS Certified Cloud Practitioner
+- 📚 Strong foundation in DSA, OOP, DBMS, OS & Computer Networks
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramavath-shiva-ram/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/ramavathshivaram">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:ramavathshiva6300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramavathshivaram&theme=tokyonight&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
